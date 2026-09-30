@@ -20,3 +20,6 @@ Live site: https://7dniv.webart.work
 - Phone: +380 67 442 18 81
 - Address: вулиця Соборна, 4, Кам'янець-Подільський, 32302
 - Website/booking: 7dniv.webart.work (сторінка посилається на офіційний сайт бронювання www.7dniv.ua)
+
+## Forms
+Live forms send requests to HotelOS (hotelId `kp-7dniv`): `stay-request`, `spa-request` (SPA / басейн), `conference-request`. Phone is the only required field.
